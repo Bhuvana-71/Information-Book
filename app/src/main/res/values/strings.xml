@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Information Book</string>
+    <string name="united_kingdom"><b>Capital</b>\t\t\t\t\t\t: London \n<b>Largest City</b>\t\t\t\t: London \n<b>National Language</b>\t: English \n<b>Total Area</b>\t\t\t\t:242,495 km2 \n<b>Currency</b>\t\t\t\t\t: GBP\n
+
+ The United Kingdom of Great Britain and Northern Ireland, simply known as the United Kingdom (UK) or Britain, is a country in Northwestern Europe, off the north-western coast of the continental mainland. It comprises England, Scotland, Wales and Northern Ireland. It includes the island of Great Britain, the north-eastern part of the island of Ireland, and most of the smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the Irish Sea. The total area of the United Kingdom is 242,495 square kilometres (93,628 sq mi), with an estimated 2023 population of over 68 million people.
+
+\n\n\t\tThe United Kingdom has evolved from a series of annexations, unions and separations of constituent countries over several hundred years. The Treaty of Union between the Kingdom of England (which also included Wales) and the Kingdom of Scotland in 1707 resulted in their unification to become the Kingdom of Great Britain. Its union in 1801 with the Kingdom of Ireland created the United Kingdom of Great Britain and Ireland. Most of Ireland seceded from the UK in 1922, leaving the present United Kingdom of Great Britain and Northern Ireland, which formally adopted its name in 1927.[l] The nearby Isle of Man, Guernsey and Jersey are not part of the UK, being Crown Dependencies, but the British government is responsible for their defence and international representation.[21]
+
+\n\n\t\tThe UK became the world's first industrialised country and was the foremost power during the 19th and early 20th centuries, a period of unchallenged global hegemony known as \"Pax Britannica\". The 14 British Overseas Territories are the last remnants of the British Empire which, at its height in the 1920s, encompassed almost a quarter of the world's landmass and population, and was the largest empire in history. A part of the core Anglophonic world, British influence can be observed in the language, culture, legal and political systems of many of its former colonies.
+
+\n\n\t\tThe United Kingdom is a constitutional monarchy and parliamentary democracy. Its capital and largest city is London, the capital of England, a megacity which serves as one of the world\'s two main financial centres. Edinburgh, Cardiff and Belfast are the national capitals of Scotland, Wales and Northern Ireland respectively. Other major cities include Birmingham, Manchester, Leeds, Glasgow, Sheffield and Liverpool. Scotland, Wales, and Northern Ireland have their own devolved governments, each with varying powers.
+
+
+
+
+
+
+
+
+    </string>
 </resources>

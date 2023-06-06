@@ -1,12 +1,14 @@
-package com.example.informationbook;
+package com.example.informationbook.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 import android.os.Bundle;
+
+import com.example.informationbook.adapters.AdapterClass;
+import com.example.informationbook.adapters.ModelClass;
+import com.example.informationbook.R;
 
 import java.util.ArrayList;
 
@@ -16,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
 
     private ArrayList<ModelClass> arrayList;
+    private AdapterClass adapter;
 
 
 
@@ -50,7 +53,8 @@ public class MainActivity extends AppCompatActivity {
         arrayList.add(modelClass4);
 
 
-
+ adapter=new AdapterClass(arrayList,this);
+ recyclerView.setAdapter(adapter);
 
 
 

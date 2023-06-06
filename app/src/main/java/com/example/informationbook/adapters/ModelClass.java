@@ -1,4 +1,4 @@
-package com.example.informationbook;
+package com.example.informationbook.adapters;
 
 public class ModelClass {
 
